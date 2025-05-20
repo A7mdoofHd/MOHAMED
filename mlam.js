@@ -22,7 +22,7 @@ const styleElement = document.createElement('style');
 styleElement.textContent = `
 #users .uzr.ahmed {
     background-image: url('https://www.babup.com/do.php?img=127625');
-  background-size: cover;
+  background-size: 300px auto;
   background-repeat: no-repeat;
      box-shadow: 2px 2px 4px rgba(188,188,188,0.2),
               -2px -2px 4px rgba(255,255,255,0.3)!important;
